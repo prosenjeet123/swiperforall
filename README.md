@@ -1,4 +1,4 @@
-# ElephantSlider
+# Swiperforall
 
 Hey guys, Well this is a responsive slider based on purely javascript made this for an interview and uploading it for you guys as well this works with any browser because its javascript😁.
 
